@@ -1,0 +1,16 @@
+{
+    "name": "XrsPat.Behaviours",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cf0fd65a7a634579be3ccd3126e7f7f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
